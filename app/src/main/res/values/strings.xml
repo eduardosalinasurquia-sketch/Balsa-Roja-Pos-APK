@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Balsa Roja POS</string>
+    <string name="notification_listener_description">Detecta avisos de pago de Yape y los envía al POS para revisión manual.</string>
+</resources>

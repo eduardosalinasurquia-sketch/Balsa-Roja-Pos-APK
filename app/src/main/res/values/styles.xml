@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.BalsaRojaYape" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="colorPrimary">#1769E0</item>
+        <item name="colorSecondary">#1769E0</item>
+        <item name="colorTertiary">#1769E0</item>
+        <item name="android:colorAccent">#1769E0</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
